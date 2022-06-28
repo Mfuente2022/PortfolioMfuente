@@ -1,0 +1,27 @@
+.about-main-text {
+  position: absolute;
+  top: 20%;
+  text-align: center;
+  padding: 1.5em;
+}
+
+.about-main-text h2 {
+  font-size: 4rem;
+  font-weight: 700;
+  color:whitesmoke;
+  margin-bottom: 0.3em;
+}
+
+.about-main-text h3 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  color: whitesmoke;
+  margin-bottom: 1em;
+}
+
+.about-main-text p {
+  font-size: 1.3rem;
+  line-height: 2rem;
+  color: whitesmoke;
+  margin-bottom: 6em;
+}

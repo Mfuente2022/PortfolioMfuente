@@ -1,0 +1,7 @@
+.main__footer {
+  width: 100%;
+  background-color: var(--main-bg-color);
+  text-align: center;
+  line-height: 4rem;
+  padding-top: 0;
+}

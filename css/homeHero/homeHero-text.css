@@ -1,0 +1,23 @@
+.hero-presentation h2 {
+  font-size: 2rem;
+  font-weight: 500 bold;
+  color: var(--sec-color);
+}
+
+.hero-presentation h1 {
+  font-size: 2.5rem;
+  color: var(--sec-color);
+  font-weight: 700;
+  margin: 1em 0;
+}
+
+.hero-nombre {
+  color:white;
+}
+
+.hero-presentation p {
+  font-size: 1.6rem;
+  font-weight: 300 bold;
+  line-height: 2.5rem;
+  color:black;
+}
